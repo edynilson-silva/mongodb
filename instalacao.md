@@ -3,11 +3,10 @@
 ### Windows
 
 Acessar https://www.mongodb.com/try/download e baixar a versão **MongoDB Community Server**
+
 Criar uma pasta **"data"** e dentro dela outra pasta **"db"** na unidade onde o Mongo foi instalado.
 
 Para iniciar o servidor, acessar a pasta onde estar instalado com CMD/PowerShell. E executar o comando:
-
-Syntax highlighting
 
 ``` 
 bin\mongod.exe
